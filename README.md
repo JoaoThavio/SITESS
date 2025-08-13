@@ -1,4 +1,4 @@
-# SITESS
+# SITES
 
 Projeto desenvolvido em **HTML** e **CSS**, com foco na criação de páginas web estruturadas e visualmente organizadas.  
 O objetivo é aplicar boas práticas de marcação e estilização para construção de sites.
